@@ -42,7 +42,3 @@
 <img align="right" height="200" src="https://cdn.discordapp.com/attachments/1210906106394705980/1303105037878431744/image.png?ex=672a8aa3&is=67293923&hm=7220316236632b565a5a468bd98b5af7956f709cb50a7aa7a72e8d9d87e8494b&"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/StormAxs/StormAxs/output/snake.svg" alt="Snake animation" />
-
-###
