@@ -1,5 +1,3 @@
-<img align="left" height="250" src="https://cdn.discordapp.com/attachments/1210906106394705980/1303104144848064524/SPOILER__1-removebg.png?ex=672a89ce&is=6729384e&hm=a6c655a686e5b54ac70edb55b355bf1fe62ee4674103747b34cc1a0304099fa1&"  />
-
 ###
 
 <div align="center">
@@ -39,6 +37,5 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/1210906106394705980/1303105037878431744/image.png?ex=672a8aa3&is=67293923&hm=7220316236632b565a5a468bd98b5af7956f709cb50a7aa7a72e8d9d87e8494b&"  />
 
 ###
